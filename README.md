@@ -1,4 +1,5 @@
-# Zaman
+# My-Zaman
+My-Zaman is a temporary package developed based on Zaman library, added today button to handle navigate to current date and marked current day on calendar. It's temporarily published due to personal requirements and will be available until the new changes is released in main library named Zaman.
 
 Zaman is a lightweight React component for creating a Jalali/Georgian datepicker. There is also a range datepicker and timepicker in Zaman. The module can also be customized to match the appearance of your designs.
 
